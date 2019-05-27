@@ -1,0 +1,27 @@
+#TopView {
+	margin-top: 5;
+	flex-direction: row;
+	height: 30px;
+}
+
+#FileName {
+	width: 150;
+	margin-left: 5;
+}
+
+#SaveButton {
+	width: 100;
+}
+
+#SaveAsButton {
+	width: 100;
+}
+
+#OpenButton {
+	width: 100;
+}
+
+#NoteArea {
+	height: 1000;
+	margin-bottom: 10;
+}
